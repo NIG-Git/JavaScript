@@ -1,1 +1,1 @@
-# JavaScript
+JavaScriptに関するサンプルソースです。
